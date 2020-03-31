@@ -10,6 +10,8 @@
 Repository for all of Lukas Roses web developement projects.
 
 ## Projects
-[x] Personal Portfolio
-[ ] Personal Blog (Future Project)
-[ ]
+- [x] Personal Portfolio
+- [ ] Personal Blog (Future Project)
+- [ ] More to come..
+
+© Lukas Rose
