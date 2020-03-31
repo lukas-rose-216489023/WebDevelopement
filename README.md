@@ -1,4 +1,4 @@
-# Web Developement
+# Web Developement (under construction...)
   <p align="center">
   <img src="https://www.pitango.com//data/upl/companies/venn%20300x300_transparent%20background.png" /></a>
  
@@ -9,4 +9,6 @@
  ---
 Repository for all of Lukas Roses web developement projects.
 
-## Running the application
+## Projects
+[x] Personal Portfolio
+[ ] Personal Blog (Future Project)
